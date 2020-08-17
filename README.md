@@ -1,8 +1,8 @@
 ## Akasztófa
-
+[Itt megnézheted](https://akasztofa.netlify.app/)
 ## A Játékról
 
-Válassz egy betűt, hogy kitaláld a rejtett szót mielőtt elfogyna az esélyed
+Válassz egy betűt, hogy kitaláld a rejtett szót mielőtt elfogyna az esélyed.
 
 ## Projekt Leírása
 
